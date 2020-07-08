@@ -1,0 +1,7 @@
+/src/.vs
+/src/APIExample.Core/obj
+/src/APIExample.Core/bin
+/src/APIExample/obj
+/src/APIExample/bin
+/src/APIExample.Test/bin
+/src/APIExample.Test/obj
