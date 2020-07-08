@@ -1,0 +1,9 @@
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\bin\Debug\netcoreapp3.1\APIExample.Core.deps.json
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\bin\Debug\netcoreapp3.1\APIExample.Core.dll
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\bin\Debug\netcoreapp3.1\APIExample.Core.pdb
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\obj\Debug\netcoreapp3.1\APIExample.Core.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\obj\Debug\netcoreapp3.1\APIExample.Core.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\obj\Debug\netcoreapp3.1\APIExample.Core.AssemblyInfo.cs
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\obj\Debug\netcoreapp3.1\APIExample.Core.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\obj\Debug\netcoreapp3.1\APIExample.Core.dll
+C:\Users\ferna\source\repos\APIExample\APIExample.Core\obj\Debug\netcoreapp3.1\APIExample.Core.pdb
